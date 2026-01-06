@@ -16,14 +16,22 @@ function Contact(){
                 <img src="photo1.jpg" alt="Contact"/>
             </div>
             <div className="mydetails">
-                
+                <div className="myname">
                <h2>Name: Kislay Kumar</h2> 
-               <h2>Designation: Student</h2>
-                <h2>Id: 2500032706</h2>
-                <h2>Program: B.tech</h2>
-                <h2>Email:Kislay6575@gmail.com</h2>
-                <h2>Phone: +91 9508660078</h2>
-                <h2>Address: Patna,Bihar,India</h2> 
+                </div>
+                <div className="myname">
+               <h2>Designation: Student</h2></div>
+               <div className="myname">
+                <h2>Id: 2500032706</h2></div>
+                <div className="myname">
+                <h2>Program: B.tech</h2></div>
+                <div className="myname">
+                <h2>Email:Kislay6575@gmail.com</h2></div>
+                <div className="myname">
+                <h2>Phone: +91 9508660078</h2></div>
+                <div className="myname">
+                <h2>Address: Patna,Bihar,India</h2> </div>
+
             </div>
         </div>
         </>
